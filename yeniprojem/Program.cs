@@ -7,7 +7,7 @@ namespace yeniprojem
         static void Main(string[] args)
         {
             string urunAdi = "Elma";
-            double fiyati = 15;
+            double Fiyati = 15 ;
             string aciklama = "Amasya Elması";
             string[] meyveler = new string[] { };
             Urun urun1 = new Urun();
@@ -16,7 +16,7 @@ namespace yeniprojem
             urun1.Aciklama = "Amasya Elması";
             Urun urun2 = new Urun();
             urun2.Adi = "Karpuz";
-            urun2.Fiyati = 50;
+            urun2.Fiyati = 50 ;
             urun2.Aciklama = "Diyarbakır Karpuzu";
             Urun[] urunler = new Urun[] {urun1,urun2 };
 
