@@ -1,10 +1,1 @@
-# bilisimegitimayca
-hjdfkjhkshf
-hgfjgkj
-kjdfhkhdfk
-kjhekwhk
-ytt
-gfgfgt
-fghfhk
-hyfgyh
-jhıık
+#Bem Kursu İçin Hazırlanmış Projedir 
